@@ -75,7 +75,14 @@ export const projects = [
     title: "Zen Training",
     des: "A training coach in your pocket. Create, edit, and run your own programs. Built in progession algorithm.",
     img: "/zenTrainingVid.gif",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"], // Change to tech stack icons used for my actual app
+    iconLists: [
+      "/html.svg",
+      "/css.svg",
+      "/js.svg",
+      "/re.svg",
+      "/fb.svg",
+      "/npm.svg",
+    ],
     link: "https://js-react-hypertrophy-app.web.app/", // Add another option or property for the repo
   },
   {
@@ -83,7 +90,15 @@ export const projects = [
     title: "Zen Nutrition",
     des: "A food logger and nutrition tracker. Create, view, update, and delete your foods and log them into your day.",
     img: "/zenNutritionVid.gif",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"], // Change to tech stack icons used for my actual app
+    iconLists: [
+      "/html.svg",
+      "/css.svg",
+      "/js.svg",
+      "/re.svg",
+      "/node.svg",
+      "/mongo.svg",
+      "/npm.svg",
+    ],
     link: "https://zen-nutrition.vercel.app/", // Add another option or property for the repo
   },
   {
@@ -91,7 +106,16 @@ export const projects = [
     title: "Zenith",
     des: "A blogging platform. Post, comment, like, and explore. I write about futurism, anime, and fitness here.",
     img: "/zenithVid.gif",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"], // Change to tech stack icons used for my actual app
+    iconLists: [
+      "/html.svg",
+      "/css.svg",
+      "/js.svg",
+      "/re.svg",
+      "/node.svg",
+      "/mongo.svg",
+      "/fb.svg",
+      "/npm.svg",
+    ],
     link: "https://zenith-ug18.onrender.com/", // Add another option or property for the repo
   },
   {
@@ -99,7 +123,16 @@ export const projects = [
     title: "Nexus",
     des: "An E-Commerce platform. Discover the amazing display of products of the singularity. Wonder and hope awaits.",
     img: "/nexusVid.gif",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"], // Change to tech stack icons used for my actual app
+    iconLists: [
+      "/html.svg",
+      "/css.svg",
+      "/js.svg",
+      "/ts.svg",
+      "/re.svg",
+      "/node.svg",
+      "/next.svg",
+      "/npm.svg",
+    ],
     link: "https://nexus-zen.vercel.app/", // Add another option or property for the repo
   },
   {
@@ -107,7 +140,7 @@ export const projects = [
     title: "Hungry Lotus",
     des: "An website that I made for a local Asian restaurant. You can browse their menu and see what they offer.",
     img: "/hungryLotusVid.gif",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"], // Change to tech stack icons used for my actual app
+    iconLists: ["/html.svg", "/css.svg", "/js.svg"],
     link: "https://hungry-lotus.vercel.app/", // Add another option or property for the repo
   },
   {
@@ -115,8 +148,8 @@ export const projects = [
     title: "Sirllancealot Studios",
     des: "An website that I made for a photography business. You can check out the repo, private live site, at client request.",
     img: "/sirllancealotStudios.jpg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"], // Change to tech stack icons used for my actual app
-    link: "https://github.com/ZenTheMC/SirLlancealot-Studios", // Add another option or property for the repo
+    iconLists: ["/html.svg", "/css.svg", "/js.svg"],
+    link: "https://github.com/ZenTheMC/SirLlancealot-Studios",
   },
 ];
 
