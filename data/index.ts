@@ -72,35 +72,51 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    title: "Zen Training",
+    des: "A training coach in your pocket. Create, edit, and run your own programs. Built in progession algorithm.",
+    img: "/zenTrainingVid.gif",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"], // Change to tech stack icons used for my actual app
+    link: "https://js-react-hypertrophy-app.web.app/", // Add another option or property for the repo
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    title: "Zen Nutrition",
+    des: "A food logger and nutrition tracker. Create, view, update, and delete your foods and log them into your day.",
+    img: "/zenNutritionVid.gif",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"], // Change to tech stack icons used for my actual app
+    link: "https://zen-nutrition.vercel.app/", // Add another option or property for the repo
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
+    title: "Zenith",
+    des: "A blogging platform. Post, comment, like, and explore. I write about futurism, anime, and fitness here.",
+    img: "/zenithVid.gif",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"], // Change to tech stack icons used for my actual app
+    link: "https://zenith-ug18.onrender.com/", // Add another option or property for the repo
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    title: "Nexus",
+    des: "An E-Commerce platform. Discover the amazing display of products of the singularity. Wonder and hope awaits.",
+    img: "/nexusVid.gif",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"], // Change to tech stack icons used for my actual app
+    link: "https://nexus-zen.vercel.app/", // Add another option or property for the repo
+  },
+  {
+    id: 5,
+    title: "Hungry Lotus",
+    des: "An website that I made for a local Asian restaurant. You can browse their menu and see what they offer.",
+    img: "/hungryLotusVid.gif",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"], // Change to tech stack icons used for my actual app
+    link: "https://hungry-lotus.vercel.app/", // Add another option or property for the repo
+  },
+  {
+    id: 6,
+    title: "Sirllancealot Studios",
+    des: "An website that I made for a photography business. You can check out the repo, private live site, at client request.",
+    img: "/sirllancealotStudios.jpg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"], // Change to tech stack icons used for my actual app
+    link: "https://github.com/ZenTheMC/SirLlancealot-Studios", // Add another option or property for the repo
   },
 ];
 
