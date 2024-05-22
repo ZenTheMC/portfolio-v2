@@ -228,14 +228,14 @@ export const workExperience = [
     id: 2,
     title: "Software Engineer @ 100Devs",
     desc: "Collaborated with a global team of developers to build modern and responsive full-stack applications.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Software Engineer @ Zen Consulting",
     desc: "Created responsive full-stack applications for large variety of clientele, iterating, and securing project closures.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
