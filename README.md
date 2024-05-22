@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Zen Nutrition
 
-## Getting Started
+PROBLEM: I needed a way to show off my skills now that I've been an engineer for over 4 years, and my old portfolio was too simple.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+SOLUTION: I created a version 2 of my portfolio:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+|| A NextJS Typescript portfolio with framer and Threejs animations and objects ||
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**Link to project:**
 
-## Learn More
+[Zen Nutrition](https://zenconsulting.vercel.app/)
 
-To learn more about Next.js, take a look at the following resources:
+![App Logo](https://drive.google.com/uc?export=view&id=1mQWI-hsrgn13PDX3WxGt-GsfVGZrpuAH) ![App Screenshot](https://drive.google.com/uc?export=view&id=1SCJ15e95OmPjbZVme9Qamo9kdzg7G0BB)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## How It's Made:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Tech used:** Typescript, NextJS, ThreeJS, Framer motion, TailwindCSS, Vercel.
 
-## Deploy on Vercel
+-Version 2 of my developer portfolio, showcasing updated skills, experiences, and how far I've come.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Optimizations (*Contributions Welcome*)
+
+-Add a light mode!
+
+-Continue iterating with new experiences, projects, testimonials, etc.
+
+## Lessons Learned:
+
+-How to make 3d objects with threeJS and animations with framer motion.
+
+-Utlizing external libraries like Aceternity UI for awesome components.
