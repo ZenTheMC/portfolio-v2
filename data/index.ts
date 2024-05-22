@@ -52,11 +52,11 @@ export const gridItems = [
   {
     id: 5,
     title: "Anime, Tech, Fitness",
-    description: "My Hobbies",
+    description: "Hobbies & Passions",
     className: "md:col-span-1 md:row-span-2 md:items-center",
     imgClassName:
       "absolute right-0 bottom-0 md:w-full w-60 sm:h-full md:h-auto",
-    titleClassName: "justify-center",
+    titleClassName: "justify-center ",
     img: "/zenConsulting.jpg",
     spareImg: "/grid.svg",
   },
@@ -149,11 +149,11 @@ export const projects = [
   },
   {
     id: 6,
-    title: "Sirllancealot Studios",
-    des: "An website that I made for a photography business. You can check out the repo, private live site, at client request.",
-    img: "/sirllancealotStudios.jpg",
-    iconLists: ["/html.svg", "/css.svg", "/js.svg"],
-    link: "https://github.com/ZenTheMC/SirLlancealot-Studios",
+    title: "Portfolio v1",
+    des: "My first web dev portfolio that I made. Check it out to see how far I've come since then.",
+    img: "/portfolioVid.gif",
+    iconLists: ["/html.svg", "/css.svg"],
+    link: "https://zensconsulting.netlify.app/",
   },
 ];
 
