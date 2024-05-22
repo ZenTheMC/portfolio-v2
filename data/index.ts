@@ -9,18 +9,18 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title: "",
     description: "",
-    className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
+    className: "md:col-span-1 md:row-span-2 md:min-h-[20vh] sm:min-h-[70vh]",
     imgClassName: "w-full h-full",
-    titleClassName: "justify-end",
-    img: "/b1.svg",
+    titleClassName: "",
+    img: "/professionalPhoto.png",
     spareImg: "",
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
-    description: "",
+    title: "Check out this 3d object I made with ThreeJS and framer motion!",
+    description: "Give the globe a spin...",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-start",
@@ -29,9 +29,9 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
-    description: "I constantly try to improve",
-    className: "lg:col-span-2 md:col-span-3 md:row-span-2",
+    title: "Stack",
+    description: "Tech",
+    className: "lg:col-span-1 md:col-span-3 md:row-span-2 p-2",
     imgClassName: "",
     titleClassName: "justify-center",
     img: "",
@@ -39,30 +39,32 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
-    description: "",
+    title: "",
+    description:
+      "In fitness, I recognized a gap between programs and the tools available. I crafted a full-stack app, using my exercise science and programming skills. At GORX Fitness, an early-stage startup, I helped migrate a no-code application to a full-stack application. At 100Devs in a global team, and Zen Consulting directly with clients, I built software in teams and by myself for businesses. At Equinox, I held a client-centric sales and training role. Innovation and problem-solving drive me. I'm eager to harness the skills from my diverse experiences to excel at my next opportunity.",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
     titleClassName: "justify-start",
     img: "/grid.svg",
-    spareImg: "/b4.svg",
+    spareImg: "",
   },
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
-    description: "The Inside Scoop",
-    className: "md:col-span-3 md:row-span-2",
-    imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
-    titleClassName: "justify-center md:justify-start lg:justify-center",
-    img: "/b5.svg",
+    title: "Anime, Tech, Fitness",
+    description: "My Hobbies",
+    className: "md:col-span-1 md:row-span-2 md:items-center",
+    imgClassName:
+      "absolute right-0 bottom-0 md:w-full w-60 sm:h-full md:h-auto",
+    titleClassName: "justify-center",
+    img: "/zenConsulting.jpg",
     spareImg: "/grid.svg",
   },
   {
     id: 6,
-    title: "Do you want to start a project together?",
+    title: "Do you want to connect for a virtual coffee chat?",
     description: "",
-    className: "lg:col-span-2 md:col-span-3 md:row-span-1",
+    className: "lg:col-span-1 md:col-span-1 md:row-span-1",
     imgClassName: "",
     titleClassName: "justify-center md:max-w-full max-w-60 text-center",
     img: "",
@@ -71,6 +73,7 @@ export const gridItems = [
 ];
 
 export const projects = [
+  // THIS ISN'T TAKING ME ANYWHERE, NO LINK ON CARD TO BE FOUND
   {
     id: 1,
     title: "Zen Training",
@@ -155,6 +158,7 @@ export const projects = [
 ];
 
 export const testimonials = [
+  // WORK ON THIS!!!
   {
     quote:
       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
@@ -188,6 +192,7 @@ export const testimonials = [
 ];
 
 export const companies = [
+  // WORK ON THIS!!!
   {
     id: 1,
     name: "cloudinary",
@@ -223,29 +228,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Software Engineer @ Gorx Fitness",
+    desc: "Migrating a no-code application for an early-stage startup, into a full-stack commercial application.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Software Engineer @ 100Devs",
+    desc: "Collaborated with a global team of developers to build modern and responsive full-stack applications.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Software Engineer @ Zen Consulting",
+    desc: "Created responsive full-stack applications for large variety of clientele, iterating, and securing project closures.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Personal Trainer @ Equinox",
+    desc: "Created and managed a program database for a roster of high-profile clients, trained them, and got results.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -255,13 +260,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    href: "https://github.com/ZenTheMC",
   },
   {
     id: 2,
     img: "/twit.svg",
+    href: "https://twitter.com/Zen_The_MC",
   },
   {
     id: 3,
     img: "/link.svg",
+    href: "https://www.linkedin.com/in/amaar-a",
   },
 ];
