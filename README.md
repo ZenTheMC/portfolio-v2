@@ -1,4 +1,4 @@
-# Zen Nutrition
+# Portfolio - Version 2
 
 PROBLEM: I needed a way to show off my skills now that I've been an engineer for over 4 years, and my old portfolio was too simple.
 
