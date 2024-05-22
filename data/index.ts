@@ -73,7 +73,6 @@ export const gridItems = [
 ];
 
 export const projects = [
-  // THIS ISN'T TAKING ME ANYWHERE, NO LINK ON CARD TO BE FOUND
   {
     id: 1,
     title: "Zen Training",
@@ -87,7 +86,7 @@ export const projects = [
       "/fb.svg",
       "/npm.svg",
     ],
-    link: "https://js-react-hypertrophy-app.web.app/", // Add another option or property for the repo
+    link: "https://js-react-hypertrophy-app.web.app/",
   },
   {
     id: 2,
@@ -103,7 +102,7 @@ export const projects = [
       "/mongo.svg",
       "/npm.svg",
     ],
-    link: "https://zen-nutrition.vercel.app/", // Add another option or property for the repo
+    link: "https://zen-nutrition.vercel.app/",
   },
   {
     id: 3,
@@ -120,7 +119,7 @@ export const projects = [
       "/fb.svg",
       "/npm.svg",
     ],
-    link: "https://zenith-ug18.onrender.com/", // Add another option or property for the repo
+    link: "https://zenith-ug18.onrender.com/",
   },
   {
     id: 4,
@@ -137,7 +136,7 @@ export const projects = [
       "/next.svg",
       "/npm.svg",
     ],
-    link: "https://nexus-zen.vercel.app/", // Add another option or property for the repo
+    link: "https://nexus-zen.vercel.app/",
   },
   {
     id: 5,
@@ -145,7 +144,7 @@ export const projects = [
     des: "An website that I made for a local Asian restaurant. You can browse their menu and see what they offer.",
     img: "/hungryLotusVid.gif",
     iconLists: ["/html.svg", "/css.svg", "/js.svg"],
-    link: "https://hungry-lotus.vercel.app/", // Add another option or property for the repo
+    link: "https://hungry-lotus.vercel.app/",
   },
   {
     id: 6,
@@ -158,72 +157,64 @@ export const projects = [
 ];
 
 export const testimonials = [
-  // WORK ON THIS!!!
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Amaar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Amaar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Amaar is the ideal partner.",
+    name: "Llance",
+    title: "Founder of LlanceAlot Studios LLC.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Amaar was a game-changer for our company. His keen eye for detail and ability to bring our vision to life were unmatched. Amaar's commitment to excellence and his proactive approach made the whole process seamless and enjoyable.",
+    name: "Leon",
+    title: "Founder of 100 Devs",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Amaar's expertise and creativity were pivotal in taking our project to the next level. He consistently exceeded our expectations, delivering high-quality work with impressive speed. Amaar is a true professional and a pleasure to work with.",
+    name: "Andrew",
+    title: "Founder of Gorx Fitness",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Amaar demonstrated remarkable skill and a deep understanding of our needs. His innovative solutions and dedication to our project were truly impressive. Working with Amaar was a fantastic experience, and I highly recommend him.",
+    name: "Altin",
+    title: "Software engineer at 100 Devs",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Amaar's contributions to our team were invaluable. His technical prowess, combined with his collaborative spirit, made him an integral part of our success. Amaar's work ethic and passion for development are evident in every project he undertakes.",
+    name: "Ben",
+    title: "Engineering team lead at Gorx Fitness",
   },
 ];
 
-export const companies = [
-  // WORK ON THIS!!!
-  {
-    id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-  {
-    id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
-  },
-];
+// export const companies = [
+//   {
+//     id: 1,
+//     name: "equinox",
+//     img: "/",
+//     nameImg: "/",
+//   },
+//   {
+//     id: 2,
+//     name: "gorx",
+//     img: "/",
+//     nameImg: "/",
+//   },
+//   {
+//     id: 3,
+//     name: "100devs",
+//     img: "/",
+//     nameImg: "/",
+//   },
+//   {
+//     id: 4,
+//     name: "zenconsulting",
+//     img: "/",
+//     nameImg: "/",
+//   },
+// ];
 
 export const workExperience = [
   {
