@@ -10,7 +10,7 @@ SOLUTION: I created a version 2 of my portfolio:
 
 **Link to project:**
 
-[Zen Nutrition](https://zenconsulting.vercel.app/)
+[Portfolio V2](https://zenconsulting.vercel.app/)
 
 ![App Logo](https://drive.google.com/uc?export=view&id=1mQWI-hsrgn13PDX3WxGt-GsfVGZrpuAH) ![App Screenshot](https://drive.google.com/uc?export=view&id=1iKBXlG3yCTdYc8oo09-r8rjREaxyFb0j)
 
