@@ -12,7 +12,7 @@ SOLUTION: I created a version 2 of my portfolio:
 
 [Zen Nutrition](https://zenconsulting.vercel.app/)
 
-![App Logo](https://drive.google.com/uc?export=view&id=1mQWI-hsrgn13PDX3WxGt-GsfVGZrpuAH) ![App Screenshot](https://drive.google.com/uc?export=view&id=1SCJ15e95OmPjbZVme9Qamo9kdzg7G0BB)
+![App Logo](https://drive.google.com/uc?export=view&id=1mQWI-hsrgn13PDX3WxGt-GsfVGZrpuAH) ![App Screenshot](https://drive.google.com/uc?export=view&id=1iKBXlG3yCTdYc8oo09-r8rjREaxyFb0j)
 
 ## How It's Made:
 
