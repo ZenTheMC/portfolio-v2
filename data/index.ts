@@ -163,30 +163,30 @@ export const testimonials = [
     name: "Llance",
     title: "Founder of LlanceAlot Studios LLC.",
   },
-  {
-    quote:
-      "Working with Amaar was a game-changer for our company. His keen eye for detail and ability to bring our vision to life were unmatched. Amaar's commitment to excellence and his proactive approach made the whole process seamless and enjoyable.",
-    name: "Leon",
-    title: "Founder of 100 Devs",
-  },
-  {
-    quote:
-      "Amaar's expertise and creativity were pivotal in taking our project to the next level. He consistently exceeded our expectations, delivering high-quality work with impressive speed. Amaar is a true professional and a pleasure to work with.",
-    name: "Andrew",
-    title: "Founder of Gorx Fitness",
-  },
-  {
-    quote:
-      "Amaar demonstrated remarkable skill and a deep understanding of our needs. His innovative solutions and dedication to our project were truly impressive. Working with Amaar was a fantastic experience, and I highly recommend him.",
-    name: "Altin",
-    title: "Software engineer at 100 Devs",
-  },
-  {
-    quote:
-      "Amaar's contributions to our team were invaluable. His technical prowess, combined with his collaborative spirit, made him an integral part of our success. Amaar's work ethic and passion for development are evident in every project he undertakes.",
-    name: "Ben",
-    title: "Engineering team lead at Gorx Fitness",
-  },
+  // {
+  //   quote:
+  //     "Working with Amaar was a game-changer for our company. His keen eye for detail and ability to bring our vision to life were unmatched. Amaar's commitment to excellence and his proactive approach made the whole process seamless and enjoyable.",
+  //   name: "Leon",
+  //   title: "Founder of 100 Devs",
+  // },
+  // {
+  //   quote:
+  //     "Amaar's expertise and creativity were pivotal in taking our project to the next level. He consistently exceeded our expectations, delivering high-quality work with impressive speed. Amaar is a true professional and a pleasure to work with.",
+  //   name: "Andrew",
+  //   title: "Founder of Gorx Fitness",
+  // },
+  // {
+  //   quote:
+  //     "Amaar demonstrated remarkable skill and a deep understanding of our needs. His innovative solutions and dedication to our project were truly impressive. Working with Amaar was a fantastic experience, and I highly recommend him.",
+  //   name: "Altin",
+  //   title: "Software engineer at 100 Devs",
+  // },
+  // {
+  //   quote:
+  //     "Amaar's contributions to our team were invaluable. His technical prowess, combined with his collaborative spirit, made him an integral part of our success. Amaar's work ethic and passion for development are evident in every project he undertakes.",
+  //   name: "Ben",
+  //   title: "Engineering team lead at Gorx Fitness",
+  // },
 ];
 
 // export const companies = [
