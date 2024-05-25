@@ -163,6 +163,36 @@ export const testimonials = [
     name: "Llance",
     title: "Founder of LlanceAlot Studios LLC.",
   },
+  {
+    quote:
+      "Collaborating with Amaar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Amaar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Amaar is the ideal partner.",
+    name: "Llance",
+    title: "Founder of LlanceAlot Studios LLC.",
+  },
+  {
+    quote:
+      "Collaborating with Amaar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Amaar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Amaar is the ideal partner.",
+    name: "Llance",
+    title: "Founder of LlanceAlot Studios LLC.",
+  },
+  {
+    quote:
+      "Collaborating with Amaar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Amaar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Amaar is the ideal partner.",
+    name: "Llance",
+    title: "Founder of LlanceAlot Studios LLC.",
+  },
+  {
+    quote:
+      "Collaborating with Amaar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Amaar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Amaar is the ideal partner.",
+    name: "Llance",
+    title: "Founder of LlanceAlot Studios LLC.",
+  },
+  {
+    quote:
+      "Collaborating with Amaar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Amaar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Amaar is the ideal partner.",
+    name: "Llance",
+    title: "Founder of LlanceAlot Studios LLC.",
+  },
   // {
   //   quote:
   //     "Working with Amaar was a game-changer for our company. His keen eye for detail and ability to bring our vision to life were unmatched. Amaar's commitment to excellence and his proactive approach made the whole process seamless and enjoyable.",
